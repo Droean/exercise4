@@ -9,7 +9,6 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
 		Map<String, Integer> cities = new TreeMap<>();
 		int n = 0;
 		String name = cityInput();
